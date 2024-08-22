@@ -1,3 +1,3 @@
 ## Lil' Rat Maze ##
-This is a small 3D maze horror game made in Unity.
-The game and its store page is available at https://pika2.itch.io/lil-rat-maze.
+This is a small horror game made in Unity.
+The game and further information is available at https://pika2.itch.io/lil-rat-maze.
